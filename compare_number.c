@@ -7,10 +7,10 @@ int main(){
    scanf("%d %d",&a,&b);
 
   if( a==b){
-    printf("a and b are equal"); 
+    printf("\na and b are equal"); 
   }
   else{
-     printf("a and b are not equal");
+     printf("\na and b are not equal");
   }
     
    return 0;
